@@ -102,10 +102,3 @@ npm run preview
 ## Backend
 
 Ensure the backend server is running before starting the frontend.
-
-
-
-
-## License
-
-This project is intended for educational and development purposes.
